@@ -4,21 +4,19 @@
 
 #### 🏫 우테코 6기 (진행중)
 #### ✨ Skill
-|skill|what|
-|--|--|
-|Language |Java Script ,TypeScript|
-|FrameWork /Library|React ,Redux (Redux-Tool,Redux-Saga ,Redux-Thunk), Recoil, React query|
-|Markup|HTML, CSS (SCSS, CSS in JS(Styled-Components) , CSS Module)|
-|Tool|Git, Github, MSW, eslint, prettier|
-|Build|webpack, vite|
-|Test|jest, vitest, RTL, storybook|
+- Language : JavaScript  TypeScript
+- FrameWork , Library : React  Redux  Redux-Saga  Redux-Thunk  Recoil  React Query
+- Markup : HTML  CSS (SCSS, Styled-Components, Emotion, CSS Module)
+- Test : Jest Vitest Cypress  Storybook
+- Build :  Vite  Webpack
+- Tool : Git  Github  MSW 🔗Postman  AWS(S3, CloudFront, CodePipeline) Eslint Prettier
 
 #### 🌱Study
 - 우테코 6기 진행 중...
 - Next.js 공부 중...
 
 #### 😚 Fun
-- Isfj.🐜🌿
+- ISFJ ✈️
   - 계획, 효율적인 것을 좋아해요.😁
   - 바쁜 시계 토끼? 🦭?
 - 집에서 에너지 충천 중.... 🔋
