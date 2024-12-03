@@ -12,7 +12,7 @@
 - Tool : Git  Github  MSW 🔗Postman  AWS(S3, CloudFront, CodePipeline) Eslint Prettier
 
 #### 🌱Study
-- 우테코 6기 진행 중...
+- 👑 우테코 6기 수료
 - Next.js 공부 중...
 
 #### 😚 Fun
