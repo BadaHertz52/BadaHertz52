@@ -2,7 +2,7 @@
 
 ##### 🗨️🐋 모든 사람의 헤르츠가 세상에 닿을 수 있기를, 저의 코드가 이에 도움이 되기를 바라는 개발자 바다에요!!
 
-#### 🏫 우테코 6기 (진행중)
+#### 🏫 우테코 6기 수료
 #### ✨ Skill
 - Language : JavaScript  TypeScript
 - FrameWork , Library : React  Redux  Redux-Saga  Redux-Thunk  Recoil  React Query
