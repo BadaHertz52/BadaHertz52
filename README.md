@@ -6,16 +6,19 @@
 
 ### 😎 Peer Insights into My Strengths
 <div>
-  <img src="https://img.shields.io/badge/Problem%20Solving-A8E6CF?style=for-the-badge" alt="Problem Solving Badge" >
-  <p >문제의 원인을 파악하고 코드와 기능의 전반적인 흐름을 이해하여 신속하게 해결해요</p>
+  <img src="https://img.shields.io/badge/Problem%20Solving-E6E6FA?style=for-the-badge" alt="Problem Solving Badge" >
+  <p>이슈가 생기면, 긍정적이고 차분한 태도로 문제를 해결하는 태도가 인상 깊어요</p>
+  <p >코드와 기능의 전반적인 흐름을 이해하여, 신속하게 문제의 원인을 파악하고 해결해요</p>
+  <p> 어려운 기술 과제도, 주저하지 않고 도전해요</p>
 </div>
 <div>
-  <img src="https://img.shields.io/badge/Time%20Management-B3E5FC?style=for-the-badge" alt="Management Badge" >
-  <p >업무 분배와 작업 스케줄 관리를 통해 효율적으로 작업을 진행하며, 깊은 몰입과 추친력으로 높은 생산성을 유지해요</p>
+  <img src="https://img.shields.io/badge/Time%20Management-B3E5FC?style=for-the-badge" alt="Time Management Badge" >
+  <p >업무 분배와 작업 스케줄 관리를 통해 효율적으로 작업을 진행해요</p>
+  <p>깊은 몰입과 추친력으로 높은 생산성을 유지해요</p>
 </div>
 <div>
   <img src="https://img.shields.io/badge/Communication-FFF9C4?style=for-the-badge" alt="Communication Badge" >
-  <p >논리적인 근거로 의견을 제시하고, 팀원의 의견을 경청하여 협업을 강화해요</p>
+  <p >논리적인 근거로 의견을 제시하고, 팀원의 의견을 경청해요</p>
 </div>
 
 
