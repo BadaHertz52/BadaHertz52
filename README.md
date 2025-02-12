@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&weight=700&size=24&pause=1000&color=000000&width=435&lines=HI+I'M+BADA)](https://git.io/typing-svg)
 
 ### 🐋 Dream - 세상과 사람을 잇는 개발을 꿈꾸는 개발자
+![User Pleasure](https://img.shields.io/badge/User%20Pleasure-FFE2E2?style=for-the-badge)
+![Life-Enhancing Development](https://img.shields.io/badge/Life%20Enhancing%20Development-FFD966?style=for-the-badge)
 - 기술 친숙도나 사용의 어려움에 상관없이 **모든 사용자에게 최고의 디지털 경험(DX)을 제공하는 데 열정**을 가지고 있어요
 - 개발의 본질은 기술이 아닌, 세상의 문제/ 사람들의 불편함을 해결에 있다고 믿어요
 
